@@ -5,3 +5,4 @@ data_processed
 .venv
 .github
 lctsc_metadata.csv
+*.pth
