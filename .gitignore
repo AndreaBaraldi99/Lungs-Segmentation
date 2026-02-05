@@ -6,3 +6,6 @@ data_processed
 .github
 lctsc_metadata.csv
 *.pth
+test_cases
+*.csv
+*.png
