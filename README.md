@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/inference.png" alt="3D Lung Segmentation Inference" width="700"/>
-</p>
-
 <h1 align="center">Lung CT Segmentation with Deep Learning</h1>
 
 <p align="center">
