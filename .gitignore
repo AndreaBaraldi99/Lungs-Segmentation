@@ -8,4 +8,4 @@ lctsc_metadata.csv
 *.pth
 test_cases
 *.csv
-*.png
+test_cases_inference
